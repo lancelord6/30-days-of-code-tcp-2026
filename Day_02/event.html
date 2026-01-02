@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Schedule</title>
+    <style>
+        table, th, td {
+            border: 3px solid black;
+            border-collapse: collapse;
+            padding: 10px;
+        }
+        th {
+            background-color: lightgray;
+        }
+        h1 {
+            color: blue;
+        }
+        form {
+            text-align: center;
+        }
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Events</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Activity</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10:00 AM</td>
+                <td>Chess(M)</td>
+                <td>Sports Complex</td>
+            </tr>
+            <tr>
+                <td>11:00 AM</td>
+                <td>Chess(W)</td>
+                <td>Sports Complex</td>
+            </tr>
+            <tr>
+                <td>01:00 PM</td>
+                <td>Atheletics(M)</td>
+                <td>Football Ground</td>
+            </tr>
+            <tr>
+                <td>02:30 PM</td>
+                <td>Atheletics(w)</td>
+                <td>Football Ground</td>
+            </tr>
+            <tr>
+                <td>04:00 PM</td>
+                <td>Hockey</td>
+                <td>Football Ground</td>
+            </tr>
+        </tbody>
+    </table><br>
+        <h1 style="text-align: center;">Registration Form</h1>
+        <form>
+            Name: <input type="text" name="name" required><br><br>
+            Email: <input type="email" name="email" required><br><br>
+            Number: <input type="tel" name="number" required><br><br>
+            Date: <input type="date" name="date" required><br><br>
+            Ticket type:
+             <input type="radio" name="ttype" id="n" value="normal"><label for="n">Normal</label>
+             <input type="radio" name="ttype" id="p" value="premium"><label for="p">Premium</label>
+             <input type="radio" name="ttype" id="v" value="v.i.p."><label for="v">V.I.P.</label><br><br>
+            Event:<input type="checkbox" name="event1" value="chess">Chess
+             <input type="checkbox" name="event2" value="atheletics">Atheletics
+             <input type="checkbox" name="event3" value="hockey">Hockey<br><br>
+        </form>
+        <br>
+        <div  style="text-align: center;">
+            <textarea name="comments" rows="4" cols="50" placeholder="Any comments..."></textarea><br>
+            <input type="submit" value="Submit">
+        </div>
+</body>
+</html>
