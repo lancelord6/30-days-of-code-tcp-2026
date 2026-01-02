@@ -19,3 +19,10 @@ index.html
 about.html output
 
 <img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/b0534558-2ee6-4e78-814d-3251ab17e1c4" />
+
+
+
+DAY_02
+
+event.html
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/00a62546-a36d-4da8-bb9b-93bffaec673f" />
