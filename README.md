@@ -26,3 +26,15 @@ DAY_02
 
 event.html
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/00a62546-a36d-4da8-bb9b-93bffaec673f" />
+
+
+DAY_03
+
+index.html
+<img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/bc116e8c-47e9-49f1-910c-ee92d271d45a" />
+<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/5e870097-7d79-4f89-aa49-345288773e8e" />
+<img width="1917" height="345" alt="Image" src="https://github.com/user-attachments/assets/08ff887a-50dc-4b31-855d-da17937327fa" />
+
+about.html
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/cfa63269-0af8-416b-a9e7-cd8edad4f0e4" />
+
