@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --primary-color: #000000;
+  --secondary-color: #ff5722;
+  --tertiary-color:  rgb(234, 242, 119);
+  --font-color: #ffffffcf;
+  --background-color: #353434;
+}
+header{
+    background-color: #105237;
+    text-align: center;
+    padding : 24px;
+    color: rgb(234, 242, 119);
+    font-weight:bolder;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+.navigation{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap:120px;
+    color:azure;
+    margin:0;
+    padding:10px;
+    background-color: var(--primary-color);
+}
+.btn{
+    text-decoration:none;
+    padding:10px 20px;
+    border-radius:12px;
+    background-color: rgba(168, 170, 112, 0.148);
+    color:var(--font-color);
+    transition:0.3s;
+    cursor:pointer
+}
+.btn:hover{
+    background-color:var(--tertiary-color);
+    color:var(--primary-color);
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--font-color);
+}
+
+.hero{
+    position: relative;
+}
+
+.hero-txt{
+    position: relative;
+    font-size: 84px;
+    font-weight: bolder;
+  z-index: 2;
+  margin-top: -550px
+}
+.hero-img{
+   position: relative;
+   height:auto;
+   width:100%;
+   z-index: 1;filter: brightness(0.75);
+   display:block;
+
+}   
+.hero-subtxt{
+    position:absolute;
+    display:flex;
+    justify-content:right;
+    max-width: 500px;
+    margin-left: 10px;
+    z-index: 2;
+}
+.hero-btn{
+    position:relative;
+    text-decoration:none;
+    padding:10px 20px;
+    left:1200px;
+    border-radius:12px;
+    background-color: rgba(168, 170, 112, 0.148);
+    color:var(--font-color);
+    transition:0.3s;
+    cursor:pointer;
+    z-index:2;
+}
+.hero-btn:hover{    
+    background-color:var(--tertiary-color);
+    color:var(--primary-color);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 100px 5%; 
+    background-color: var(--background-color); 
+}
+
+.card, .price-box {
+    flex: 1;
+    min-width: 250px;
+    max-width: 350px;
+    padding: 30px;
+    background-color: #1a1a1a;
+    border: 1px solid #333;   
+    border-radius: 12px;
+    text-align: center;
+    color: var(--font-color);
+    transition: transform 0.3s ease;
+}
+
+
+.card h3, .price-box h4 {
+    color: var(--tertiary-color); 
+    margin-bottom: 15px;
+}
+#features, #pricing {
+    position: relative;
+    z-index: 10;
+    margin-top: 50px; 
+    background-color: var(--background-color);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 60px 20px;
+}
