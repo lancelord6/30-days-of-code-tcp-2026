@@ -38,3 +38,11 @@ index.html
 about.html
 <img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/cfa63269-0af8-416b-a9e7-cd8edad4f0e4" />
 
+
+DAY_04
+
+landing.html
+<img width="1900" height="788" alt="Image" src="https://github.com/user-attachments/assets/402d1426-30ba-4f39-bd0f-1e22c6b2e49f" />
+<img width="1915" height="778" alt="Image" src="https://github.com/user-attachments/assets/b90e1990-7e19-4d64-84bb-8f130eb9b325" />
+
+
