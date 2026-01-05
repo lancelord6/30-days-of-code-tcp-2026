@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 05 Challenge</title>
+    <link rel="stylesheet" href="index.css">
+    <script defer src="index.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="../Day_01/index.html">Day 01</a>
+        </nav>
+        <h1>Tic-Tac-Toe</h1>
+    </header>
+    <main>
+            <div class="status" id="status">Player X's Turn</div>
+            <div class="board">
+                <div class="cell" data-index="0"></div>
+                <div class="cell" data-index="1"></div>
+                <div class="cell" data-index="2"></div>
+                <div class="cell" data-index="3"></div>
+                <div class="cell" data-index="4"></div>
+                <div class="cell" data-index="5"></div>
+                <div class="cell" data-index="6"></div>
+                <div class="cell" data-index="7"></div>
+                <div class="cell" data-index="8"></div>
+            </div>
+            <button class="reset-button" id="reset-button">Reset Game</button>
+    </main>
+        <section class="overlay" id="overlay">
+            <div class="message-box">
+                <p id="message"></p>
+                <button onclick="resetGame()">Play Again</button>
+            </div>
+        </section>
+</body>
