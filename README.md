@@ -46,3 +46,16 @@ landing.html
 <img width="1915" height="778" alt="Image" src="https://github.com/user-attachments/assets/b90e1990-7e19-4d64-84bb-8f130eb9b325" />
 
 
+DAY_05
+<img width="1905" height="1020" alt="Image" src="https://github.com/user-attachments/assets/10cf991a-56a7-42ff-8925-abc8bce33e60" />
+
+<img width="1919" height="1035" alt="Image" src="https://github.com/user-attachments/assets/5cfa2cf8-fde8-4157-99be-3e298f1a0ded" />
+
+<img width="1919" height="1034" alt="Image" src="https://github.com/user-attachments/assets/1e132ad2-d749-44c7-9c74-68d95f6dc8cd" />
+
+<img width="1919" height="1027" alt="Image" src="https://github.com/user-attachments/assets/1a232c17-25d1-4531-948b-238e2379b7ab" />
+
+<img width="1919" height="1027" alt="Image" src="https://github.com/user-attachments/assets/f88f475a-60c0-4810-9c46-74ab101029f2" />
+
+<img width="1919" height="1032" alt="Image" src="https://github.com/user-attachments/assets/6072a578-f7ed-4fe8-bb87-0c329702578a" />
+
