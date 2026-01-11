@@ -1,6 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
 class Solution {
   public:
         void merge(vector<int>&arr, int left, int mid, int right)
