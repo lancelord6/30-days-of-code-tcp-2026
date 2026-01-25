@@ -123,3 +123,6 @@ DAY_23
 
 DAY_24
 <img width="1910" height="957" alt="Image" src="https://github.com/user-attachments/assets/44e70b77-c610-4875-8175-29f8be0556cb" />
+
+DAY_25
+<img width="1919" height="966" alt="Image" src="https://github.com/user-attachments/assets/64e7e33f-c2a3-410c-b235-33ae43308775" />
