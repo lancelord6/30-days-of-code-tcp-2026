@@ -138,3 +138,6 @@ DAY_28
 
 DAY_29
 <img width="1919" height="922" alt="Image" src="https://github.com/user-attachments/assets/42034e77-3cd3-4037-949b-936568a5cd54" />
+
+DAY_30
+<img width="1919" height="971" alt="Image" src="https://github.com/user-attachments/assets/002be91e-453f-48fe-bebb-f731c1f28fba" />
